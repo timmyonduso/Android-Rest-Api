@@ -22,9 +22,6 @@ Getting Started
 
 1. [Install Android Studio](https://developer.android.com/studio/install.html), if you don't already
    have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
 
 ## [Build this app through hands-on codelabs in the Android Basics with Compose Course](https://developer.android.com/courses/android-basics-compose/course)
 
